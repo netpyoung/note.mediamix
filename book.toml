@@ -1,0 +1,19 @@
+[book]
+title = "넷평의 영화 노트"
+description = "note.movie"
+authors = ["netpyoung"]
+language = "kr"
+multilingual = false
+src = "src"
+
+[preprocessor.toc]
+command = "mdbook-toc"
+renderer = ["html"]
+
+[output.html]
+additional-css = ["custom.css"]
+no-section-label = true
+site-url = "/note.movie/"
+git-repository-url = "https://github.com/netpyoung/note.movie"
+git-repository-icon = "fa-github"
+edit-url-template = "https://github.com/netpyoung/note.movie/edit/main/{path}"
