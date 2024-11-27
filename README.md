@@ -1,4 +1,4 @@
-# note.movie
+# note.mediamix
 
 자꾸 까먹고, 자꾸 바뀐다. 기록하여 살펴보도록 하자.
 

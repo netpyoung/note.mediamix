@@ -1,6 +1,6 @@
 [book]
-title = "넷평의 영화 노트"
-description = "note.movie"
+title = "넷평의 미디어 노트"
+description = "note.mediamix"
 authors = ["netpyoung"]
 language = "kr"
 multilingual = false
@@ -13,7 +13,7 @@ renderer = ["html"]
 [output.html]
 additional-css = ["custom.css"]
 no-section-label = true
-site-url = "/note.movie/"
-git-repository-url = "https://github.com/netpyoung/note.movie"
+site-url = "/note.mediamix/"
+git-repository-url = "https://github.com/netpyoung/note.mediamix"
 git-repository-icon = "fa-github"
-edit-url-template = "https://github.com/netpyoung/note.movie/edit/main/{path}"
+edit-url-template = "https://github.com/netpyoung/note.mediamix/edit/main/{path}"
