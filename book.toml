@@ -2,7 +2,7 @@
 title = "넷평의 미디어 노트"
 description = "note.mediamix"
 authors = ["netpyoung"]
-language = "kr"
+language = "ko"
 multilingual = false
 src = "src"
 
