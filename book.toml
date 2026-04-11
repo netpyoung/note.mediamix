@@ -3,7 +3,6 @@ title = "넷평의 미디어 노트"
 description = "note.mediamix"
 authors = ["netpyoung"]
 language = "ko"
-multilingual = false
 src = "src"
 
 [preprocessor.toc]
@@ -15,5 +14,4 @@ additional-css = ["custom.css"]
 no-section-label = true
 site-url = "/note.mediamix/"
 git-repository-url = "https://github.com/netpyoung/note.mediamix"
-git-repository-icon = "fa-github"
 edit-url-template = "https://github.com/netpyoung/note.mediamix/edit/main/{path}"
